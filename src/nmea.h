@@ -7,9 +7,9 @@
 
 #define _EMPTY 0x00
 #define NMEA_GPRMC 0x01
-#define NMEA_GPRMC_STR "$GPRMC"
+#define NMEA_GPRMC_STR "$GNRMC"
 #define NMEA_GPGGA 0x02
-#define NMEA_GPGGA_STR "$GPGGA"
+#define NMEA_GPGGA_STR "$GNGGA"
 #define NMEA_UNKNOWN 0x00
 #define _COMPLETED 0x03
 
